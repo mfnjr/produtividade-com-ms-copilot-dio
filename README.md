@@ -1,4 +1,4 @@
-# 📘 produtividade-com-ms-copilot-dio
+# 📘 Produtividade com o Microsoft Copilot
 
 Este repositório tem como objetivo documentar os **desafios de projeto** propostos no módulo **"Produtividade com o Microsoft Copilot Studio"**, integrante do **Bootcamp Suzano Python Developer**, oferecido pela plataforma [DIO](https://www.dio.me).
 
